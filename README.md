@@ -47,10 +47,30 @@
 
 ---
 
+## 📂 Portfolio
+
+### 📊 Data Analytics & Machine Learning Projects
+- [**Sentiment Analysis App**](https://github.com/YassirElGhrissi/sentiment-analysis) – Python Flask app using TextBlob for text sentiment classification.  
+- [**Churn Prediction Model**](https://github.com/YassirElGhrissi/churn-modeling) – ANN model for customer churn prediction using Kaggle dataset.  
+- [**Inventory Analytics Dashboard**](https://github.com/YassirElGhrissi/inventory-analytics) – Power BI dashboard for inventory tracking and insights.  
+
+### 💻 Full-Stack Development Projects
+- [**E-commerce Dropshipping Store**](https://github.com/YassirElGhrissi/dropshipping-store) – Laravel + MySQL e-commerce platform.  
+- [**Spring Boot & Angular App**](https://github.com/YassirElGhrissi/springboot-angular-app) – Full-stack CRUD application with SQL Server.  
+- [**Power Apps Inventory Management**](https://github.com/YassirElGhrissi/powerapps-inventory) – Power Platform app integrated with SharePoint list.  
+
+---
+
+## 📈 GitHub Stats
+![Yassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassirElGhrissi&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YassirElGhrissi&theme=tokyonight)  
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassir-el-ghrissi-6a6573305/)  
-[![Portfolio_Full-Stack](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/yassirelghrissioff) 
-[![Portfolio_Data](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/yassirelghrissioff) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/yassirelghrissioff)  
+
 ---
 
 ⭐ *Always curious to learn, build, and innovate.*
