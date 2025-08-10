@@ -18,6 +18,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 **📊 Data Analytics & Machine Learning:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -31,6 +34,7 @@
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -40,12 +44,6 @@
 - 📊 Experienced in **Data Analytics**, **Machine Learning**, **Web Development**, **UX Design**, and **Power Platform**.  
 - 💬 Speaks **French**, **Arabic**, and **English**.  
 - 🌱 Interested in **sustainability**, **healthcare**, and **rural education**.  
-
----
-
-## 📈 GitHub Stats
-![Yassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassirElGhrissi&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YassirElGhrissi&theme=tokyonight)  
 
 ---
 
